@@ -1,9 +1,5 @@
 <p align="center">
-  <img
-    src="./assets/github-banner.png"
-    alt="Banner profissional de Tiago Gomes"
-    width="100%"
-  />
+
 </p>
 
 <h1 align="center">Olá, eu sou o Tiago Gomes 👋</h1>
