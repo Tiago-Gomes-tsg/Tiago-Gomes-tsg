@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B89A72&height=180&section=header&text=Tiago%20Gomes&fontSize=42&fontColor=242529&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">Olá, eu sou o Tiago Gomes 👋</h1>
+<h1 align="center">Olá, eu sou o Tiago Gomes</h1>
 
 <p align="center">
   <strong>Infraestrutura de TI • Suporte Técnico • Dados • Automação • Backend</strong>
